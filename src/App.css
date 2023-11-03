@@ -24,7 +24,7 @@ body {
 
 .advice {
   font-size: 1.4em;
-  color: grey;
+  color: rgb(175, 170, 170);
   position: absolute;
 }
 
@@ -47,11 +47,11 @@ top: 15em;
 
 @media only screen and (max-width: 422px) {
   body {
-    background-color: lightblue;
+    background-color: rgb(49 58 73);
   }
   .advice {
     font-size: 1.2em;
-    color: grey;
+    color: rgb(199, 190, 190);
     position: absolute;
   }
 }

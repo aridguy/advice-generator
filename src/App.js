@@ -55,6 +55,11 @@ const App = () => {
             </div>
             <div className="col-md-3"></div>
           </div>
+          <div className="row mt-5">
+          <div className="col-md-12 col-12 text-white text-center">
+          <small> By Ariyo </small>
+          </div>
+          </div>
         </div>
       </section>
     </div>
